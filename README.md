@@ -15,3 +15,6 @@ A central hub for low-level backend systems I built from scratch to deepen my un
 
 * **[API Rate Limiter](https://github.com/huboleo/rate-limiter)**
   A network traffic controller using the Token Bucket algorithm to manage API quotas, ensure fair usage, and prevent server overload.
+
+* **[ETL Data Pipeline](https://github.com/huboleo/etl-data-pipeline)**
+  A simple etl data pipeline that ingests the transactions data, transforms it and loads everything into an SQL db
